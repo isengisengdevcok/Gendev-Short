@@ -1,0 +1,6 @@
+{
+  "name": "GENDEV Shorts",
+  "description": "Anonymous, login-free AMOLED Dark short-video viewer for public YouTube Shorts and TikTok videos with multi-source fallback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

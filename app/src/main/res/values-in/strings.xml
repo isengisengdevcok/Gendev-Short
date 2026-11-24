@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">GENDEV Shorts</string>
+    <string name="brand_gendev">GENDEV</string>
+    <string name="brand_shorts">SHORTS</string>
+
+    <string name="source_youtube_shorts">YouTube Shorts</string>
+    <string name="source_tiktok">TikTok</string>
+
+    <string name="cd_search_or_link">Cari atau tempel tautan video</string>
+    <string name="cd_privacy_and_health">Privasi, cache, dan kesehatan endpoint</string>
+    <string name="cd_mute">Bisukan audio</string>
+    <string name="cd_unmute">Nyalakan audio</string>
+    <string name="cd_enter_fullscreen">Mode layar penuh</string>
+    <string name="cd_exit_fullscreen">Keluar layar penuh</string>
+    <string name="cd_retry_playback">Coba lagi atau ganti pemutar cadangan</string>
+    <string name="cd_close_sheet">Tutup</string>
+    <string name="cd_clear_input">Hapus teks</string>
+    <string name="cd_paste_link">Tempel dari papan klip</string>
+
+    <string name="engine_exo">EXO</string>
+    <string name="engine_web">WEB</string>
+    <string name="engine_unavailable">OFF</string>
+
+    <string name="loading_feed">Menghubungkan ke endpoint publik yang sehat…</string>
+    <string name="loading_stream">Memuat aliran video…</string>
+    <string name="tap_to_play">Ketuk untuk melanjutkan</string>
+    <string name="swipe_hint">Geser ke atas untuk video berikutnya</string>
+
+    <string name="error_feed_title">Sumber publik belum dapat diakses</string>
+    <string name="error_feed_desc">Endpoint publik mengalami timeout atau pembatasan akses. Periksa koneksi, ganti sumber, atau tempel tautan video publik secara langsung.</string>
+    <string name="error_video_unavailable_title">Video tidak dapat diakses</string>
+    <string name="error_video_unavailable_desc">Video ini mungkin memerlukan login, verifikasi CAPTCHA, DRM, atau dibatasi oleh penyedia sumber.</string>
+    <string name="error_invalid_link">Masukkan kata kunci pencarian atau tautan publik YouTube Shorts / TikTok yang valid.</string>
+    <string name="error_tiktok_search_restricted">Pencarian publik TikTok saat ini dibatasi verifikasi anti-bot. Tempel tautan video TikTok publik langsung atau pilih topik publik di bawah.</string>
+
+    <string name="action_retry">Coba Lagi</string>
+    <string name="action_switch_fallback">Coba Pemutar Web</string>
+    <string name="action_open_search">Cari / Tempel Link</string>
+    <string name="action_switch_source">Ganti Sumber</string>
+    <string name="action_recheck_endpoints">Periksa Ulang Endpoint</string>
+    <string name="action_clear_cache">Hapus Cache Sementara</string>
+
+    <string name="search_sheet_title">Pencarian &amp; Tautan Langsung</string>
+    <string name="search_sheet_subtitle">Cari Shorts publik atau tempel tautan YouTube /shorts/ atau TikTok</string>
+    <string name="search_input_placeholder">Cari kata kunci atau tempel https://…</string>
+    <string name="search_submit">Putar</string>
+    <string name="quick_topics_label">Topik publik cepat</string>
+    <string name="topic_tech">Teknologi &amp; Kode</string>
+    <string name="topic_science">Sains</string>
+    <string name="topic_design">3D &amp; Desain</string>
+    <string name="topic_nature">Alam</string>
+
+    <string name="privacy_sheet_title">Privasi &amp; Kesehatan Endpoint</string>
+    <string name="privacy_guarantee_title">Mode Anonim Tanpa Riwayat</string>
+    <string name="privacy_guarantee_body">Tanpa akun, tanpa login Google atau TikTok, tanpa SDK analitik atau iklan, tanpa cookie login, dan tanpa riwayat tontonan yang disimpan atau dikirim ke server aplikasi.</string>
+    <string name="privacy_provider_notice">Catatan: Saat memutar video, penyedia platform atau instansi API publik tetap dapat menerima data koneksi jaringan standar (seperti alamat IP dan header HTTP) yang diperlukan untuk mengirim video.</string>
+    <string name="cache_section_title">Cache Media Sementara</string>
+    <string name="cache_size_label">Ukuran buffer sementara saat ini: %1$s</string>
+    <string name="cache_cleared_toast">Cache sementara dibersihkan</string>
+
+    <string name="endpoints_section_title">Kesehatan Endpoint Multi-Sumber</string>
+    <string name="status_healthy">Sehat</string>
+    <string name="status_degraded">Lambat</string>
+    <string name="status_unreachable">Tidak Terjangkau</string>
+    <string name="status_unknown">Siaga</string>
+    <string name="latency_ms">%1$d md</string>
+    <string name="provider_label">Melalui %1$s</string>
+    <string name="fallback_notice_web">Dialihkan ke pemutar web</string>
+</resources>

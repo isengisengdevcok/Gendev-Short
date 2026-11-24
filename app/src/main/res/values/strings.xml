@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">GENDEV Shorts</string>
+    <string name="brand_gendev">GENDEV</string>
+    <string name="brand_shorts">SHORTS</string>
+
+    <string name="source_youtube_shorts">YouTube Shorts</string>
+    <string name="source_tiktok">TikTok</string>
+
+    <string name="cd_search_or_link">Search or paste video link</string>
+    <string name="cd_privacy_and_health">Privacy, cache, and endpoint health</string>
+    <string name="cd_mute">Mute audio</string>
+    <string name="cd_unmute">Unmute audio</string>
+    <string name="cd_enter_fullscreen">Enter fullscreen</string>
+    <string name="cd_exit_fullscreen">Exit fullscreen</string>
+    <string name="cd_retry_playback">Retry or switch fallback player</string>
+    <string name="cd_close_sheet">Close</string>
+    <string name="cd_clear_input">Clear input</string>
+    <string name="cd_paste_link">Paste from clipboard</string>
+
+    <string name="engine_exo">EXO</string>
+    <string name="engine_web">WEB</string>
+    <string name="engine_unavailable">OFF</string>
+
+    <string name="loading_feed">Connecting to healthy public endpoints…</string>
+    <string name="loading_stream">Resolving stream…</string>
+    <string name="tap_to_play">Tap to resume</string>
+    <string name="swipe_hint">Swipe up for next</string>
+
+    <string name="error_feed_title">No public stream available</string>
+    <string name="error_feed_desc">Public endpoints timed out or restricted access. Check your connection, switch source, or paste a direct public link.</string>
+    <string name="error_video_unavailable_title">Video cannot be accessed</string>
+    <string name="error_video_unavailable_desc">This video may require login, CAPTCHA verification, DRM, or is restricted by the provider.</string>
+    <string name="error_invalid_link">Please enter a search keyword or a valid public YouTube Shorts or TikTok URL.</string>
+    <string name="error_tiktok_search_restricted">TikTok public search is currently gated by anti-bot verification. Paste any public TikTok video URL or try curated public feeds below.</string>
+
+    <string name="action_retry">Retry</string>
+    <string name="action_switch_fallback">Try Web Player</string>
+    <string name="action_open_search">Search or Paste Link</string>
+    <string name="action_switch_source">Switch Source</string>
+    <string name="action_recheck_endpoints">Re-check Endpoints</string>
+    <string name="action_clear_cache">Clear Temporary Cache</string>
+
+    <string name="search_sheet_title">Search &amp; Direct Link</string>
+    <string name="search_sheet_subtitle">Search public Shorts or paste a YouTube /shorts/ or TikTok link</string>
+    <string name="search_input_placeholder">Search keywords or paste https://…</string>
+    <string name="search_submit">Go</string>
+    <string name="quick_topics_label">Quick public topics</string>
+    <string name="topic_tech">Tech &amp; Code</string>
+    <string name="topic_science">Science</string>
+    <string name="topic_design">3D &amp; Design</string>
+    <string name="topic_nature">Nature</string>
+
+    <string name="privacy_sheet_title">Privacy &amp; Endpoint Health</string>
+    <string name="privacy_guarantee_title">Anonymous Zero-History Mode</string>
+    <string name="privacy_guarantee_body">No account, no Google or TikTok login, no tracking analytics, no login cookies, and no watch history stored on device or sent to any app server.</string>
+    <string name="privacy_provider_notice">Note: When playing a video, the underlying video platform or public API instance still receives standard network connection data (such as IP address and HTTP headers) required to deliver the stream.</string>
+    <string name="cache_section_title">Temporary Media Cache</string>
+    <string name="cache_size_label">Current temporary buffer: %1$s</string>
+    <string name="cache_cleared_toast">Temporary cache cleared</string>
+
+    <string name="endpoints_section_title">Multi-Source Endpoint Health</string>
+    <string name="status_healthy">Healthy</string>
+    <string name="status_degraded">Slow</string>
+    <string name="status_unreachable">Unreachable</string>
+    <string name="status_unknown">Standby</string>
+    <string name="latency_ms">%1$d ms</string>
+    <string name="provider_label">Via %1$s</string>
+    <string name="fallback_notice_web">Switched to embedded player</string>
+</resources>

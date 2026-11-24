@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="amoled_black">#FF000000</color>
+    <color name="obsidian_surface">#FF09090F</color>
+    <color name="electric_violet">#FF8B5CF6</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
