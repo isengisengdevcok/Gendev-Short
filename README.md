@@ -76,7 +76,7 @@
 
 ### 1. Build Lokal (Command Line)
 
-Pastikan Anda memiliki **JDK 17+**, **Android SDK (API 36)**, dan **Gradle 9.3.1** (atau Gradle wrapper jika diinisialisasi di proyek lokal):
+Pastikan Anda memiliki **JDK 21**, **Android SDK (API 36)**, dan **Gradle 9.3.1** (atau Gradle wrapper jika diinisialisasi di proyek lokal):
 
 1. Jalankan pengujian unit & Robolectric:
    ```bash
